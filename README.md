@@ -3,10 +3,13 @@
 2. pl0.flex.bison
    来自 https://github.com/Aman-4-Real/PL0_Compiler
 3. pl0.test测试代码
+4. 语法火车图
 
-<img width="512" height="222" alt="image" src="https://github.com/user-attachments/assets/432feaa1-51aa-440e-ab32-0bded10596ca" />
 <img width="512" height="222" alt="image" src="https://github.com/user-attachments/assets/7e28795f-3dcc-4806-9736-6c90d34e10c0" />
 <img width="972" height="918" alt="image" src="https://github.com/user-attachments/assets/d2e47cf5-6be2-4e6a-8ac7-eb8e8b22245d" />
+<img width="1336" height="852" alt="image" src="https://github.com/user-attachments/assets/8c9ed5d4-2faa-46a8-be65-2ef6384ffca3" />
 
+5. todo
+   写一个自举的代码。
 
 
