@@ -9,7 +9,7 @@
 <img width="972" height="918" alt="image" src="https://github.com/user-attachments/assets/d2e47cf5-6be2-4e6a-8ac7-eb8e8b22245d" />
 <img width="1336" height="852" alt="image" src="https://github.com/user-attachments/assets/8c9ed5d4-2faa-46a8-be65-2ef6384ffca3" />
 
-5. todo
+5. https://github.com/lotabout/write-a-C-interpreter
+6. todo
    写一个自举的代码。
-
 
