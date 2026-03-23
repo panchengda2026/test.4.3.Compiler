@@ -32,9 +32,11 @@
 
 6. 编写连接器
     *.o文件中的重定向信息，如何被重组的。
+   
 
-7. https://github.com/lotabout/write-a-C-interpreter
-8. https://github.com/qing-2/PL0-Compiler
-9. todo
+8. https://github.com/lotabout/write-a-C-interpreter
+9. https://github.com/qing-2/PL0-Compiler
+10. 证明: PL/0语言属于LL(1)文法
+11. todo
    写一个自举的代码。
 
