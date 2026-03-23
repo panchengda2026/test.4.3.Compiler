@@ -34,10 +34,10 @@ int main(int argc, char* argv[])
 	{
 		//printf("List object code ?(Y/N)"); /*是否输出虚拟机代码*/
 		//scanf("%s", fname);
-		listswitch = 0;//(fname[0] == 'y' || fname[0] == 'Y');
+		listswitch = 1;//(fname[0] == 'y' || fname[0] == 'Y');
 		//printf("List symbol table ? (Y/N)"); /*是否输出名字表*/
 		//scanf("%s", fname);
-		tableswitch = 0;//(fname[0] == 'y' || fname[0] == 'Y');
+		tableswitch = 1;//(fname[0] == 'y' || fname[0] == 'Y');
 		fa1 = fopen("fa1.tmp", "w");
 		fprintf(fa1, "Iput pl/0 file ?");
 		fprintf(fa1, "%s\n", fname);

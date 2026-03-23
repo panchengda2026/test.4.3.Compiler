@@ -12,9 +12,11 @@
 <img width="1124" height="1080" alt="image" src="https://github.com/user-attachments/assets/810cf838-df99-4ac5-81bf-55dbda2ea34e" />
 <img width="785" height="690" alt="image" src="https://github.com/user-attachments/assets/a594eebc-3800-4cc5-aeff-fab969150e75" />
 
+6. 编写连接器
+    *.o文件中的重定向信息，如何被重组的。
 
-5. https://github.com/lotabout/write-a-C-interpreter
-6. https://github.com/qing-2/PL0-Compiler
-7. todo
+7. https://github.com/lotabout/write-a-C-interpreter
+8. https://github.com/qing-2/PL0-Compiler
+9. todo
    写一个自举的代码。
 
