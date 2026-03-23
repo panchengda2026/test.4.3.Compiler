@@ -10,6 +10,7 @@
 <img width="1336" height="852" alt="image" src="https://github.com/user-attachments/assets/8c9ed5d4-2faa-46a8-be65-2ef6384ffca3" />
 
 5. https://github.com/lotabout/write-a-C-interpreter
-6. todo
+6. https://github.com/qing-2/PL0-Compiler
+7. todo
    写一个自举的代码。
 
