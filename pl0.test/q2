@@ -1,3 +1,0 @@
-procedure
-    为什么需要 begin end 
-    参考书本的EBNF推测应该没有这个限制，但是实测test1.pl0去掉后验证失败。
